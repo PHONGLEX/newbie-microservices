@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqtPdynse64ValgjFs9K3ZqBA/8X5Xyksv6kwPwixvjKTqNGU8drVpxhevMhO0rRzAIq/uYNxdA43K9G/6C8Ig==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet learning\\microservices\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

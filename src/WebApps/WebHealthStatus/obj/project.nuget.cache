@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gh1DGq805/yK0IoK0XoUv89YNFhJGGiJZ8PvFSIUE5baAcYaEQLHbn7JV2udNWclR39LKk+otg8OHnhh354tWQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet learning\\microservices\\src\\WebApps\\WebHealthStatus\\WebHealthStatus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

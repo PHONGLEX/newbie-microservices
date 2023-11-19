@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "NK7Gs0ehM0CIi65bZkchYRU1KAX6pErHA8RXGaUmiQvDe5RzCNJiVaYz58IZ18qiUGTR/s89vRz82j1Z2L6law==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet learning\\microservices\\src\\ApiGateways\\OcelotApiGw\\OcelotApiGw.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\Phong Lex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
